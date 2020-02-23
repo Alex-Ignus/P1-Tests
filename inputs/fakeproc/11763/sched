@@ -1,0 +1,31 @@
+qemu-kvm (11763, #threads: 4)
+-------------------------------------------------------------------
+se.exec_start                                :    1495214925.868735
+se.vruntime                                  :      44415568.228339
+se.sum_exec_runtime                          :        256598.892614
+se.nr_migrations                             :               328605
+nr_switches                                  :              1811831
+nr_voluntary_switches                        :              1778096
+nr_involuntary_switches                      :                33735
+se.load.weight                               :                 1024
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   60
+mm->numa_scan_seq                            :                  832
+numa_migrations, 0
+numa_faults_memory, 0, 0, 0, 0, 2
+numa_faults_memory, 1, 0, 0, 0, 1
+numa_faults_memory, 0, 1, 0, 0, 1
+numa_faults_memory, 1, 1, 0, 0, 1
+numa_faults_memory, 0, 2, 0, 0, 1
+numa_faults_memory, 1, 2, 0, 0, 1
+numa_faults_memory, 0, 3, 0, 0, 1
+numa_faults_memory, 1, 3, 0, 0, 1
+numa_faults_memory, 0, 4, 1, 1, 2
+numa_faults_memory, 1, 4, 0, 1, 410
+numa_faults_memory, 0, 5, 0, 0, 1
+numa_faults_memory, 1, 5, 0, 0, 1
+numa_faults_memory, 0, 6, 0, 0, 1
+numa_faults_memory, 1, 6, 0, 0, 4
+numa_faults_memory, 0, 7, 0, 0, 1
+numa_faults_memory, 1, 7, 0, 0, 5

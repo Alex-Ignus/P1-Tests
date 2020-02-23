@@ -1,0 +1,12 @@
+Checksum status: valid
+# floppies     : 2
+Floppy 0 type  : none
+Floppy 1 type  : none
+HD 0 type      : 0e
+HD 1 type      : ff
+HD type 48 data: 32758/191/177 C/H/S, precomp 24350, lz 65535
+HD type 49 data: 1884/227/205 C/H/S, precomp 25725, lz 27851
+DOS base memory: 614 kB
+Extended memory: 65535 kB (configured), 65535 kB (tested)
+Gfx adapter    : CGA (40 cols)
+FPU            : installed

@@ -1,0 +1,27 @@
+55beda9b6000 default file=/usr/bin/stress mapped=5 mapmax=2 active=1 N0=5 kernelpagesize_kB=4
+55bedabba000 default file=/usr/bin/stress anon=1 dirty=1 mapmax=2 N0=1 kernelpagesize_kB=4
+55bedabbb000 default file=/usr/bin/stress anon=1 dirty=1 mapmax=2 N0=1 kernelpagesize_kB=4
+55bedbb42000 default heap anon=1 dirty=1 mapmax=2 N0=1 kernelpagesize_kB=4
+7f63ff4af000 default anon=2 dirty=2 mapmax=2 N0=2 kernelpagesize_kB=4
+7f63ff4b2000 default file=/usr/lib/libc-2.28.so
+7f63ff4d4000 default file=/usr/lib/libc-2.28.so mapped=64 mapmax=27 N0=64 kernelpagesize_kB=4
+7f63ff61f000 default file=/usr/lib/libc-2.28.so
+7f63ff66b000 default file=/usr/lib/libc-2.28.so
+7f63ff66c000 default file=/usr/lib/libc-2.28.so anon=4 dirty=4 mapmax=2 N0=4 kernelpagesize_kB=4
+7f63ff670000 default file=/usr/lib/libc-2.28.so anon=2 dirty=2 mapmax=2 N0=2 kernelpagesize_kB=4
+7f63ff672000 default anon=3 dirty=3 mapmax=2 N0=3 kernelpagesize_kB=4
+7f63ff676000 default file=/usr/lib/libm-2.28.so
+7f63ff683000 default file=/usr/lib/libm-2.28.so
+7f63ff724000 default file=/usr/lib/libm-2.28.so
+7f63ff7f9000 default file=/usr/lib/libm-2.28.so anon=1 dirty=1 mapmax=2 N0=1 kernelpagesize_kB=4
+7f63ff7fa000 default file=/usr/lib/libm-2.28.so anon=1 dirty=1 mapmax=2 N0=1 kernelpagesize_kB=4
+7f63ff7fb000 default anon=2 dirty=2 mapmax=2 N0=2 kernelpagesize_kB=4
+7f63ff813000 default file=/usr/lib/ld-2.28.so
+7f63ff815000 default file=/usr/lib/ld-2.28.so
+7f63ff834000 default file=/usr/lib/ld-2.28.so
+7f63ff83c000 default file=/usr/lib/ld-2.28.so anon=1 dirty=1 mapmax=2 N0=1 kernelpagesize_kB=4
+7f63ff83d000 default file=/usr/lib/ld-2.28.so anon=1 dirty=1 N0=1 kernelpagesize_kB=4
+7f63ff83e000 default anon=1 dirty=1 mapmax=2 N0=1 kernelpagesize_kB=4
+7fff2e3c4000 default stack anon=3 dirty=3 mapmax=2 N0=3 kernelpagesize_kB=4
+7fff2e3f0000 default
+7fff2e3f3000 default

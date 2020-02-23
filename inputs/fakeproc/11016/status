@@ -1,0 +1,47 @@
+Name:	automount
+Umask:	0022
+State:	S (sleeping)
+Tgid:	11016
+Ngid:	0
+Pid:	11016
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	128
+Groups:	
+VmPeak:	  714252 kB
+VmSize:	  714244 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    6540 kB
+VmRSS:	    4436 kB
+RssAnon:	     596 kB
+RssFile:	    3840 kB
+RssShmem:	       0 kB
+VmData:	  563004 kB
+VmStk:	     424 kB
+VmExe:	     288 kB
+VmLib:	   16520 kB
+VmPTE:	     348 kB
+VmSwap:	    1648 kB
+Threads:	7
+SigQ:	5/256550
+SigPnd:	0000000000000000
+ShdPnd:	0000000000010000
+SigBlk:	0000000000030000
+SigIgn:	0000000000001000
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000001fffffffff
+CapEff:	0000001fffffffff
+CapBnd:	0000001fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	thread vulnerable
+Cpus_allowed:	ffffffff,ffffffff
+Cpus_allowed_list:	0-63
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed_list:	0-7
+voluntary_ctxt_switches:	19
+nonvoluntary_ctxt_switches:	5

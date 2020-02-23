@@ -1,0 +1,47 @@
+Name:	master
+Umask:	0077
+State:	S (sleeping)
+Tgid:	11938
+Ngid:	0
+Pid:	11938
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	128
+Groups:	0 
+VmPeak:	   91676 kB
+VmSize:	   91628 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    2220 kB
+VmRSS:	    1212 kB
+RssAnon:	      84 kB
+RssFile:	    1128 kB
+RssShmem:	       0 kB
+VmData:	     640 kB
+VmStk:	     132 kB
+VmExe:	     156 kB
+VmLib:	   16244 kB
+VmPTE:	     176 kB
+VmSwap:	     960 kB
+Threads:	1
+SigQ:	5/256550
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	000000018001644f
+CapInh:	0000000000000000
+CapPrm:	0000001fffffffff
+CapEff:	0000001fffffffff
+CapBnd:	0000001fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	thread vulnerable
+Cpus_allowed:	ffffffff,ffffffff
+Cpus_allowed_list:	0-63
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed_list:	0-7
+voluntary_ctxt_switches:	86718
+nonvoluntary_ctxt_switches:	16

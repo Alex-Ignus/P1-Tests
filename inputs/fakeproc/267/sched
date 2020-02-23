@@ -1,0 +1,30 @@
+ksoftirqd/50 (267, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :    1489305030.366269
+se.vruntime                                  :      30979886.331358
+se.sum_exec_runtime                          :           850.772706
+se.nr_migrations                             :                    1
+nr_switches                                  :                15591
+nr_voluntary_switches                        :                14410
+nr_involuntary_switches                      :                 1181
+se.load.weight                               :                 1024
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   50
+numa_migrations, 0
+numa_faults_memory, 0, 0, 0, 0, -1
+numa_faults_memory, 1, 0, 0, 0, -1
+numa_faults_memory, 0, 1, 0, 0, -1
+numa_faults_memory, 1, 1, 0, 0, -1
+numa_faults_memory, 0, 2, 0, 0, -1
+numa_faults_memory, 1, 2, 0, 0, -1
+numa_faults_memory, 0, 3, 0, 0, -1
+numa_faults_memory, 1, 3, 0, 0, -1
+numa_faults_memory, 0, 4, 1, 0, -1
+numa_faults_memory, 1, 4, 0, 0, -1
+numa_faults_memory, 0, 5, 0, 0, -1
+numa_faults_memory, 1, 5, 0, 0, -1
+numa_faults_memory, 0, 6, 0, 0, -1
+numa_faults_memory, 1, 6, 0, 0, -1
+numa_faults_memory, 0, 7, 0, 0, -1
+numa_faults_memory, 1, 7, 0, 0, -1

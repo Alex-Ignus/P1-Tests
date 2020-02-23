@@ -1,0 +1,30 @@
+kauditd (497, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :    1489623704.321694
+se.vruntime                                  :       9045384.279344
+se.sum_exec_runtime                          :          1726.921267
+se.nr_migrations                             :                 1112
+nr_switches                                  :                76759
+nr_voluntary_switches                        :                76740
+nr_involuntary_switches                      :                   19
+se.load.weight                               :                 1024
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   50
+numa_migrations, 0
+numa_faults_memory, 0, 0, 0, 0, -1
+numa_faults_memory, 1, 0, 0, 0, -1
+numa_faults_memory, 0, 1, 0, 0, -1
+numa_faults_memory, 1, 1, 0, 0, -1
+numa_faults_memory, 0, 2, 0, 0, -1
+numa_faults_memory, 1, 2, 0, 0, -1
+numa_faults_memory, 0, 3, 0, 0, -1
+numa_faults_memory, 1, 3, 0, 0, -1
+numa_faults_memory, 0, 4, 0, 0, -1
+numa_faults_memory, 1, 4, 0, 0, -1
+numa_faults_memory, 0, 5, 1, 0, -1
+numa_faults_memory, 1, 5, 0, 0, -1
+numa_faults_memory, 0, 6, 0, 0, -1
+numa_faults_memory, 1, 6, 0, 0, -1
+numa_faults_memory, 0, 7, 0, 0, -1
+numa_faults_memory, 1, 7, 0, 0, -1

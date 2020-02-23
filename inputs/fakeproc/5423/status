@@ -1,0 +1,47 @@
+Name:	systemd-journal
+Umask:	0022
+State:	S (sleeping)
+Tgid:	5423
+Ngid:	0
+Pid:	5423
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	
+VmPeak:	  138944 kB
+VmSize:	  138940 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   81080 kB
+VmRSS:	   81080 kB
+RssAnon:	    4408 kB
+RssFile:	    1288 kB
+RssShmem:	   75384 kB
+VmData:	    5876 kB
+VmStk:	     132 kB
+VmExe:	     320 kB
+VmLib:	    3464 kB
+VmPTE:	     292 kB
+VmSwap:	     600 kB
+Threads:	1
+SigQ:	5/256550
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000004a02
+SigIgn:	0000000000001000
+SigCgt:	0000000180000040
+CapInh:	0000000000000000
+CapPrm:	00000005402800cf
+CapEff:	00000005402800cf
+CapBnd:	00000005402800cf
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	thread vulnerable
+Cpus_allowed:	ffffffff,ffffffff
+Cpus_allowed_list:	0-63
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed_list:	0-7
+voluntary_ctxt_switches:	61683
+nonvoluntary_ctxt_switches:	2459

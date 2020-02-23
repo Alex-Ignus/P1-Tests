@@ -1,0 +1,9 @@
+Device	S-state	  Status   Sysfs node
+S0D0	  S3	*disabled  pci:0000:00:07.1
+S0D1	  S3	*disabled  pci:0000:10:07.1
+S0D2	  S3	*disabled  pci:0000:20:07.1
+S0D3	  S3	*disabled  pci:0000:30:07.1
+S1D0	  S3	*disabled  pci:0000:40:07.1
+S1D1	  S3	*disabled  pci:0000:50:07.1
+S1D2	  S3	*disabled  pci:0000:60:07.1
+S1D3	  S3	*disabled  pci:0000:70:07.1

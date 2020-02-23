@@ -1,0 +1,31 @@
+virtlogd (31764, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :    1495704842.931589
+se.vruntime                                  :       8674846.588692
+se.sum_exec_runtime                          :           777.308149
+se.nr_migrations                             :                 4025
+nr_switches                                  :                 9890
+nr_voluntary_switches                        :                 9885
+nr_involuntary_switches                      :                    5
+se.load.weight                               :                 1024
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   80
+mm->numa_scan_seq                            :                    0
+numa_migrations, 0
+numa_faults_memory, 0, 0, 0, 0, -1
+numa_faults_memory, 1, 0, 0, 0, -1
+numa_faults_memory, 0, 1, 0, 0, -1
+numa_faults_memory, 1, 1, 0, 0, -1
+numa_faults_memory, 0, 2, 0, 0, -1
+numa_faults_memory, 1, 2, 0, 0, -1
+numa_faults_memory, 0, 3, 0, 0, -1
+numa_faults_memory, 1, 3, 0, 0, -1
+numa_faults_memory, 0, 4, 0, 0, -1
+numa_faults_memory, 1, 4, 0, 0, -1
+numa_faults_memory, 0, 5, 1, 0, -1
+numa_faults_memory, 1, 5, 0, 0, -1
+numa_faults_memory, 0, 6, 0, 0, -1
+numa_faults_memory, 1, 6, 0, 0, -1
+numa_faults_memory, 0, 7, 0, 0, -1
+numa_faults_memory, 1, 7, 0, 0, -1

@@ -1,0 +1,30 @@
+kworker/18:1H (6012, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :    1494630709.572226
+se.vruntime                                  :      43956638.060027
+se.sum_exec_runtime                          :          1971.697771
+se.nr_migrations                             :                    2
+nr_switches                                  :               174714
+nr_voluntary_switches                        :               174702
+nr_involuntary_switches                      :                   12
+se.load.weight                               :                88761
+policy                                       :                    0
+prio                                         :                  100
+clock-delta                                  :                   70
+numa_migrations, 0
+numa_faults_memory, 0, 0, 0, 0, -1
+numa_faults_memory, 1, 0, 0, 0, -1
+numa_faults_memory, 0, 1, 0, 0, -1
+numa_faults_memory, 1, 1, 0, 0, -1
+numa_faults_memory, 0, 2, 0, 0, -1
+numa_faults_memory, 1, 2, 0, 0, -1
+numa_faults_memory, 0, 3, 0, 0, -1
+numa_faults_memory, 1, 3, 0, 0, -1
+numa_faults_memory, 0, 4, 1, 0, -1
+numa_faults_memory, 1, 4, 0, 0, -1
+numa_faults_memory, 0, 5, 0, 0, -1
+numa_faults_memory, 1, 5, 0, 0, -1
+numa_faults_memory, 0, 6, 0, 0, -1
+numa_faults_memory, 1, 6, 0, 0, -1
+numa_faults_memory, 0, 7, 0, 0, -1
+numa_faults_memory, 1, 7, 0, 0, -1

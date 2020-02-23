@@ -1,0 +1,243 @@
+00000000-00000fff : reserved
+00001000-000997ff : System RAM
+00099800-0009ffff : reserved
+000a0000-000bffff : PCI Bus 0000:00
+000c0000-000dffff : PCI Bus 0000:00
+  000c0000-000c7fff : Video ROM
+  000c8000-000c8dff : Adapter ROM
+000e0000-000fffff : reserved
+  000f0000-000fffff : System ROM
+00100000-75daffff : System RAM
+  2b000000-353fffff : Crash kernel
+75db0000-75ffffff : reserved
+76000000-c9d4bfff : System RAM
+c9d4c000-c9db9fff : reserved
+  c9d97018-c9d97019 : APEI ERST
+  c9d9701c-c9d97021 : APEI ERST
+  c9d97028-c9d97039 : APEI ERST
+  c9d97040-c9d9704c : APEI ERST
+  c9d97050-c9d9904f : APEI ERST
+c9dba000-c9e75fff : System RAM
+c9e76000-ca1e9fff : ACPI Non-volatile Storage
+ca1ea000-cacc2fff : reserved
+cacc3000-cbffffff : System RAM
+cc000000-cfffffff : reserved
+dd200000-dd37ffff : reserved
+dd3f0000-dd3f0fff : reserved
+  dd3f0000-dd3f03ff : IOAPIC 8
+dd400000-df7fffff : PCI Bus 0000:70
+  df400000-df5fffff : PCI Bus 0000:72
+    df400000-df4fffff : 0000:72:00.1
+      df400000-df4fffff : ccp
+    df500000-df501fff : 0000:72:00.1
+      df500000-df501fff : ccp
+  df600000-df7fffff : PCI Bus 0000:71
+    df600000-df6fffff : 0000:71:00.2
+      df600000-df6fffff : ccp
+    df700000-df701fff : 0000:71:00.2
+      df700000-df701fff : ccp
+df800000-df97ffff : reserved
+df9f0000-df9f0fff : reserved
+  df9f0000-df9f03ff : IOAPIC 7
+dfa00000-e1dfffff : PCI Bus 0000:60
+  e1a00000-e1bfffff : PCI Bus 0000:62
+    e1a00000-e1afffff : 0000:62:00.1
+      e1a00000-e1afffff : ccp
+    e1b00000-e1b01fff : 0000:62:00.1
+      e1b00000-e1b01fff : ccp
+  e1c00000-e1dfffff : PCI Bus 0000:61
+    e1c00000-e1cfffff : 0000:61:00.2
+      e1c00000-e1cfffff : ccp
+    e1d00000-e1d01fff : 0000:61:00.2
+      e1d00000-e1d01fff : ccp
+e1e00000-e1f7ffff : reserved
+e1ff0000-e1ff0fff : reserved
+  e1ff0000-e1ff03ff : IOAPIC 6
+e2000000-e43fffff : PCI Bus 0000:50
+  e4000000-e41fffff : PCI Bus 0000:52
+    e4000000-e40fffff : 0000:52:00.1
+      e4000000-e40fffff : ccp
+    e4100000-e4101fff : 0000:52:00.1
+      e4100000-e4101fff : ccp
+  e4200000-e43fffff : PCI Bus 0000:51
+    e4200000-e42fffff : 0000:51:00.2
+      e4200000-e42fffff : ccp
+    e4300000-e4301fff : 0000:51:00.2
+      e4300000-e4301fff : ccp
+e4400000-e457ffff : reserved
+e45f0000-e45f0fff : reserved
+  e45f0000-e45f03ff : IOAPIC 5
+e4600000-e69fffff : PCI Bus 0000:40
+  e4600000-e47fffff : PCI Bus 0000:41
+  e4800000-e49fffff : PCI Bus 0000:42
+  e6600000-e67fffff : PCI Bus 0000:44
+    e6600000-e66fffff : 0000:44:00.1
+      e6600000-e66fffff : ccp
+    e6700000-e6701fff : 0000:44:00.1
+      e6700000-e6701fff : ccp
+    e6702000-e6702fff : 0000:44:00.2
+      e6702000-e6702fff : ahci
+  e6800000-e69fffff : PCI Bus 0000:43
+    e6800000-e68fffff : 0000:43:00.2
+      e6800000-e68fffff : ccp
+    e6900000-e6901fff : 0000:43:00.2
+      e6900000-e6901fff : ccp
+e6a00000-e6b7ffff : reserved
+e6bf0000-e6bf0fff : reserved
+  e6bf0000-e6bf03ff : IOAPIC 4
+e6c00000-e8ffffff : PCI Bus 0000:30
+  e8c00000-e8dfffff : PCI Bus 0000:32
+    e8c00000-e8cfffff : 0000:32:00.1
+      e8c00000-e8cfffff : ccp
+    e8d00000-e8d01fff : 0000:32:00.1
+      e8d00000-e8d01fff : ccp
+  e8e00000-e8ffffff : PCI Bus 0000:31
+    e8e00000-e8efffff : 0000:31:00.2
+      e8e00000-e8efffff : ccp
+    e8f00000-e8f01fff : 0000:31:00.2
+      e8f00000-e8f01fff : ccp
+e9000000-e917ffff : reserved
+e91f0000-e91f0fff : reserved
+  e91f0000-e91f03ff : IOAPIC 3
+e9200000-eb5fffff : PCI Bus 0000:20
+  eb200000-eb3fffff : PCI Bus 0000:22
+    eb200000-eb2fffff : 0000:22:00.1
+      eb200000-eb2fffff : ccp
+    eb300000-eb301fff : 0000:22:00.1
+      eb300000-eb301fff : ccp
+  eb400000-eb5fffff : PCI Bus 0000:21
+    eb400000-eb4fffff : 0000:21:00.2
+      eb400000-eb4fffff : ccp
+    eb500000-eb501fff : 0000:21:00.2
+      eb500000-eb501fff : ccp
+eb600000-eb77ffff : reserved
+eb7f0000-eb7f0fff : reserved
+  eb7f0000-eb7f03ff : IOAPIC 2
+eb800000-ebefffff : PCI Bus 0000:10
+  eb800000-ebafffff : PCI Bus 0000:11
+    eb800000-eb87ffff : 0000:11:00.3
+      eb800000-eb87ffff : igb
+    eb880000-eb8fffff : 0000:11:00.2
+      eb880000-eb8fffff : igb
+    eb900000-eb97ffff : 0000:11:00.1
+      eb900000-eb97ffff : igb
+    eb980000-eb9fffff : 0000:11:00.0
+      eb980000-eb9fffff : igb
+    eba00000-eba03fff : 0000:11:00.3
+      eba00000-eba03fff : igb
+    eba04000-eba07fff : 0000:11:00.2
+      eba04000-eba07fff : igb
+    eba08000-eba0bfff : 0000:11:00.1
+      eba08000-eba0bfff : igb
+    eba0c000-eba0ffff : 0000:11:00.0
+      eba0c000-eba0ffff : igb
+  ebb00000-ebcfffff : PCI Bus 0000:13
+    ebb00000-ebbfffff : 0000:13:00.1
+      ebb00000-ebbfffff : ccp
+    ebc00000-ebc01fff : 0000:13:00.1
+      ebc00000-ebc01fff : ccp
+    ebc02000-ebc02fff : 0000:13:00.2
+      ebc02000-ebc02fff : ahci
+  ebd00000-ebefffff : PCI Bus 0000:12
+    ebd00000-ebdfffff : 0000:12:00.2
+      ebd00000-ebdfffff : ccp
+    ebe00000-ebe01fff : 0000:12:00.2
+      ebe00000-ebe01fff : ccp
+ebf00000-ebf7ffff : reserved
+ebff0000-ebff0fff : reserved
+  ebff0000-ebff03ff : IOAPIC 1
+ec000000-efffffff : PCI Bus 0000:00
+  ec000000-ec1fffff : PCI Bus 0000:01
+  ec200000-ec3fffff : PCI Bus 0000:02
+  ee000000-ef0fffff : PCI Bus 0000:05
+    ee000000-ef0fffff : PCI Bus 0000:06
+      ee000000-eeffffff : 0000:06:00.0
+      ef000000-ef01ffff : 0000:06:00.0
+  ef200000-ef4fffff : PCI Bus 0000:07
+    ef200000-ef2fffff : 0000:07:00.3
+      ef200000-ef2fffff : xhci-hcd
+    ef300000-ef3fffff : 0000:07:00.2
+      ef300000-ef3fffff : ccp
+    ef400000-ef401fff : 0000:07:00.2
+      ef400000-ef401fff : ccp
+  ef500000-ef6fffff : PCI Bus 0000:08
+    ef500000-ef5fffff : 0000:08:00.1
+      ef500000-ef5fffff : ccp
+    ef600000-ef601fff : 0000:08:00.1
+      ef600000-ef601fff : ccp
+  ef700000-ef7fffff : PCI Bus 0000:04
+    ef700000-ef707fff : 0000:04:00.0
+      ef700000-ef707fff : xhci-hcd
+  ef800000-ef8fffff : PCI Bus 0000:03
+    ef800000-ef807fff : 0000:03:00.0
+      ef800000-ef807fff : xhci-hcd
+f0000000-f7ffffff : PCI MMCONFIG 0000 [bus 00-7f]
+  f0000000-f7ffffff : pnp 00:00
+fea00000-feafffff : reserved
+fec00000-fec00fff : reserved
+  fec00000-fec003ff : IOAPIC 0
+fec01000-fec01fff : pnp 00:05
+fec10000-fec10fff : reserved
+  fec10000-fec10fff : pnp 00:05
+fed00000-fed00fff : reserved
+  fed00000-fed003ff : HPET 0
+fed40000-fed44fff : reserved
+fed61000-fed70fff : pnp 00:05
+fed80000-fed8ffff : reserved
+  fed81500-fed817ff : AMDI0030:00
+fedc0000-fedc0fff : reserved
+  fedc0000-fedc0fff : pnp 00:05
+fedc2000-fedc5fff : reserved
+fedc7000-fedc7fff : reserved
+  fedc7000-fedc7fff : AMDI0020:00
+fedc8000-fedc8fff : AMDI0020:01
+fedc9000-fedcafff : reserved
+  fedc9000-fedc9fff : AMDI0020:00
+    fedc9000-fedc901f : serial
+  fedca000-fedcafff : AMDI0020:01
+    fedca000-fedca01f : serial
+fee00000-feefffff : reserved
+  fee00000-fee00fff : Local APIC
+    fee00000-fee00fff : pnp 00:05
+ff000000-ffffffff : reserved
+  ff000000-ffffffff : pnp 00:05
+100000000-22f37ffff : System RAM
+  17ae00000-17b57c25e : Kernel code
+  17b57c25f-17bb661ff : Kernel data
+  17bd45000-17c050fff : Kernel bss
+22f380000-22fffffff : reserved
+230000000-42ff7ffff : System RAM
+42ff80000-42fffffff : reserved
+430000000-62ff7ffff : System RAM
+62ff80000-62fffffff : reserved
+630000000-82ff7ffff : System RAM
+82ff80000-82fffffff : reserved
+830000000-a2ff7ffff : System RAM
+a2ff80000-a2fffffff : reserved
+a30000000-c2ff7ffff : System RAM
+c2ff80000-c2fffffff : reserved
+c30000000-e2ff7ffff : System RAM
+e2ff80000-e2fffffff : reserved
+e30000000-102ff7ffff : System RAM
+102ff80000-102fffffff : reserved
+1118000000-4c11ffffff : PCI Bus 0000:70
+4c12000000-870bffffff : PCI Bus 0000:60
+870c000000-c205ffffff : PCI Bus 0000:50
+c206000000-fcffffffff : PCI Bus 0000:40
+  c206000000-c2061fffff : PCI Bus 0000:41
+  c206200000-c2063fffff : PCI Bus 0000:42
+11418000000-14f11ffffff : PCI Bus 0000:30
+14f12000000-18a0bffffff : PCI Bus 0000:20
+18a0c000000-1c505ffffff : PCI Bus 0000:10
+  18a0c000000-18a0c0fffff : PCI Bus 0000:11
+    18a0c000000-18a0c01ffff : 0000:11:00.0
+    18a0c020000-18a0c03ffff : 0000:11:00.0
+    18a0c040000-18a0c05ffff : 0000:11:00.1
+    18a0c060000-18a0c07ffff : 0000:11:00.1
+    18a0c080000-18a0c09ffff : 0000:11:00.2
+    18a0c0a0000-18a0c0bffff : 0000:11:00.2
+    18a0c0c0000-18a0c0dffff : 0000:11:00.3
+    18a0c0e0000-18a0c0fffff : 0000:11:00.3
+1c506000000-1ffffffffff : PCI Bus 0000:00
+  1c506000000-1c5061fffff : PCI Bus 0000:01
+  1c506200000-1c5063fffff : PCI Bus 0000:02

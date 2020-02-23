@@ -1,0 +1,30 @@
+ksmd (368, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :    1454111440.278429
+se.vruntime                                  :       6473596.956633
+se.sum_exec_runtime                          :          1612.465881
+se.nr_migrations                             :                 2777
+nr_switches                                  :                 3038
+nr_voluntary_switches                        :                 3031
+nr_involuntary_switches                      :                    7
+se.load.weight                               :                  335
+policy                                       :                    0
+prio                                         :                  125
+clock-delta                                  :                   70
+numa_migrations, 0
+numa_faults_memory, 0, 0, 0, 0, -1
+numa_faults_memory, 1, 0, 0, 0, -1
+numa_faults_memory, 0, 1, 0, 0, -1
+numa_faults_memory, 1, 1, 0, 0, -1
+numa_faults_memory, 0, 2, 1, 0, -1
+numa_faults_memory, 1, 2, 0, 0, -1
+numa_faults_memory, 0, 3, 0, 0, -1
+numa_faults_memory, 1, 3, 0, 0, -1
+numa_faults_memory, 0, 4, 0, 0, -1
+numa_faults_memory, 1, 4, 0, 0, -1
+numa_faults_memory, 0, 5, 0, 0, -1
+numa_faults_memory, 1, 5, 0, 0, -1
+numa_faults_memory, 0, 6, 0, 0, -1
+numa_faults_memory, 1, 6, 0, 0, -1
+numa_faults_memory, 0, 7, 0, 0, -1
+numa_faults_memory, 1, 7, 0, 0, -1

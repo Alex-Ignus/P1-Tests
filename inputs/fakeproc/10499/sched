@@ -1,0 +1,31 @@
+polkitd (10499, #threads: 7)
+-------------------------------------------------------------------
+se.exec_start                                :    1495024107.403715
+se.vruntime                                  :       7705833.425074
+se.sum_exec_runtime                          :         12334.318682
+se.nr_migrations                             :                 3454
+nr_switches                                  :                78182
+nr_voluntary_switches                        :                77313
+nr_involuntary_switches                      :                  869
+se.load.weight                               :                 1024
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   70
+mm->numa_scan_seq                            :                   22
+numa_migrations, 0
+numa_faults_memory, 0, 0, 0, 0, 1
+numa_faults_memory, 1, 0, 0, 0, 68
+numa_faults_memory, 0, 1, 0, 0, 1
+numa_faults_memory, 1, 1, 0, 0, 44
+numa_faults_memory, 0, 2, 0, 0, 1
+numa_faults_memory, 1, 2, 0, 0, 17
+numa_faults_memory, 0, 3, 0, 1, 1
+numa_faults_memory, 1, 3, 0, 1, 73
+numa_faults_memory, 0, 4, 0, 0, 2
+numa_faults_memory, 1, 4, 0, 0, 16
+numa_faults_memory, 0, 5, 0, 0, 4
+numa_faults_memory, 1, 5, 0, 0, 125
+numa_faults_memory, 0, 6, 1, 0, 0
+numa_faults_memory, 1, 6, 0, 0, 12
+numa_faults_memory, 0, 7, 0, 0, 8
+numa_faults_memory, 1, 7, 0, 0, 111

@@ -1,0 +1,13 @@
+Attached devices:
+Host: scsi0 Channel: 00 Id: 00 Lun: 00
+  Vendor: ATA      Model: ST1000NM0055-1V4 Rev: TN04
+  Type:   Direct-Access                    ANSI  SCSI revision: 05
+Host: scsi1 Channel: 00 Id: 00 Lun: 00
+  Vendor: ATA      Model: ST1000NM0055-1V4 Rev: TN04
+  Type:   Direct-Access                    ANSI  SCSI revision: 05
+Host: scsi2 Channel: 00 Id: 00 Lun: 00
+  Vendor: ATA      Model: ST1000NM0055-1V4 Rev: TN04
+  Type:   Direct-Access                    ANSI  SCSI revision: 05
+Host: scsi3 Channel: 00 Id: 00 Lun: 00
+  Vendor: ATA      Model: ST1000NM0055-1V4 Rev: TN04
+  Type:   Direct-Access                    ANSI  SCSI revision: 05

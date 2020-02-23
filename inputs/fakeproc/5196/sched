@@ -1,0 +1,31 @@
+libvirtd (5196, #threads: 18)
+-------------------------------------------------------------------
+se.exec_start                                :    1494721564.467695
+se.vruntime                                  :      77102293.270960
+se.sum_exec_runtime                          :          4135.021122
+se.nr_migrations                             :                12232
+nr_switches                                  :                42167
+nr_voluntary_switches                        :                42139
+nr_involuntary_switches                      :                   28
+se.load.weight                               :                 1024
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   60
+mm->numa_scan_seq                            :                    3
+numa_migrations, 0
+numa_faults_memory, 0, 0, 0, 0, 2
+numa_faults_memory, 1, 0, 0, 0, 0
+numa_faults_memory, 0, 1, 0, 0, 0
+numa_faults_memory, 1, 1, 0, 0, 0
+numa_faults_memory, 0, 2, 0, 0, 0
+numa_faults_memory, 1, 2, 0, 0, 0
+numa_faults_memory, 0, 3, 1, 1, 0
+numa_faults_memory, 1, 3, 0, 1, 63
+numa_faults_memory, 0, 4, 0, 0, 0
+numa_faults_memory, 1, 4, 0, 0, 2
+numa_faults_memory, 0, 5, 0, 0, 0
+numa_faults_memory, 1, 5, 0, 0, 5
+numa_faults_memory, 0, 6, 0, 0, 0
+numa_faults_memory, 1, 6, 0, 0, 1
+numa_faults_memory, 0, 7, 0, 0, 0
+numa_faults_memory, 1, 7, 0, 0, 6

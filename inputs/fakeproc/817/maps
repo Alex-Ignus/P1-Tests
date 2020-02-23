@@ -1,0 +1,27 @@
+55beda9b6000-55beda9bb000 r-xp 00000000 fe:02 25910095                   /usr/bin/stress
+55bedabba000-55bedabbb000 r--p 00004000 fe:02 25910095                   /usr/bin/stress
+55bedabbb000-55bedabbc000 rw-p 00005000 fe:02 25910095                   /usr/bin/stress
+55bedbb42000-55bedbb63000 rw-p 00000000 00:00 0                          [heap]
+7f63ff4af000-7f63ff4b2000 rw-p 00000000 00:00 0 
+7f63ff4b2000-7f63ff4d4000 r--p 00000000 fe:02 527345                     /usr/lib/libc-2.28.so
+7f63ff4d4000-7f63ff61f000 r-xp 00022000 fe:02 527345                     /usr/lib/libc-2.28.so
+7f63ff61f000-7f63ff66b000 r--p 0016d000 fe:02 527345                     /usr/lib/libc-2.28.so
+7f63ff66b000-7f63ff66c000 ---p 001b9000 fe:02 527345                     /usr/lib/libc-2.28.so
+7f63ff66c000-7f63ff670000 r--p 001b9000 fe:02 527345                     /usr/lib/libc-2.28.so
+7f63ff670000-7f63ff672000 rw-p 001bd000 fe:02 527345                     /usr/lib/libc-2.28.so
+7f63ff672000-7f63ff676000 rw-p 00000000 00:00 0 
+7f63ff676000-7f63ff683000 r--p 00000000 fe:02 527360                     /usr/lib/libm-2.28.so
+7f63ff683000-7f63ff724000 r-xp 0000d000 fe:02 527360                     /usr/lib/libm-2.28.so
+7f63ff724000-7f63ff7f9000 r--p 000ae000 fe:02 527360                     /usr/lib/libm-2.28.so
+7f63ff7f9000-7f63ff7fa000 r--p 00182000 fe:02 527360                     /usr/lib/libm-2.28.so
+7f63ff7fa000-7f63ff7fb000 rw-p 00183000 fe:02 527360                     /usr/lib/libm-2.28.so
+7f63ff7fb000-7f63ff7fd000 rw-p 00000000 00:00 0 
+7f63ff813000-7f63ff815000 r--p 00000000 fe:02 527334                     /usr/lib/ld-2.28.so
+7f63ff815000-7f63ff834000 r-xp 00002000 fe:02 527334                     /usr/lib/ld-2.28.so
+7f63ff834000-7f63ff83c000 r--p 00021000 fe:02 527334                     /usr/lib/ld-2.28.so
+7f63ff83c000-7f63ff83d000 r--p 00028000 fe:02 527334                     /usr/lib/ld-2.28.so
+7f63ff83d000-7f63ff83e000 rw-p 00029000 fe:02 527334                     /usr/lib/ld-2.28.so
+7f63ff83e000-7f63ff83f000 rw-p 00000000 00:00 0 
+7fff2e3c4000-7fff2e3e5000 rw-p 00000000 00:00 0                          [stack]
+7fff2e3f0000-7fff2e3f3000 r--p 00000000 00:00 0                          [vvar]
+7fff2e3f3000-7fff2e3f5000 r-xp 00000000 00:00 0                          [vdso]

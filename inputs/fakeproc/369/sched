@@ -1,0 +1,30 @@
+khugepaged (369, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :    1489826855.075185
+se.vruntime                                  :      43908982.810386
+se.sum_exec_runtime                          :          6171.829199
+se.nr_migrations                             :                97527
+nr_switches                                  :                99188
+nr_voluntary_switches                        :                98931
+nr_involuntary_switches                      :                  257
+se.load.weight                               :                   15
+policy                                       :                    0
+prio                                         :                  139
+clock-delta                                  :                   60
+numa_migrations, 0
+numa_faults_memory, 0, 0, 0, 0, -1
+numa_faults_memory, 1, 0, 0, 0, -1
+numa_faults_memory, 0, 1, 0, 0, -1
+numa_faults_memory, 1, 1, 0, 0, -1
+numa_faults_memory, 0, 2, 0, 0, -1
+numa_faults_memory, 1, 2, 0, 0, -1
+numa_faults_memory, 0, 3, 0, 0, -1
+numa_faults_memory, 1, 3, 0, 0, -1
+numa_faults_memory, 0, 4, 1, 0, -1
+numa_faults_memory, 1, 4, 0, 0, -1
+numa_faults_memory, 0, 5, 0, 0, -1
+numa_faults_memory, 1, 5, 0, 0, -1
+numa_faults_memory, 0, 6, 0, 0, -1
+numa_faults_memory, 1, 6, 0, 0, -1
+numa_faults_memory, 0, 7, 0, 0, -1
+numa_faults_memory, 1, 7, 0, 0, -1

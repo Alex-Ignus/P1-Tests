@@ -1,0 +1,47 @@
+Name:	qmgr
+Umask:	0077
+State:	S (sleeping)
+Tgid:	11989
+Ngid:	0
+Pid:	11989
+PPid:	11938
+TracerPid:	0
+Uid:	89	89	89	89
+Gid:	89	89	89	89
+FDSize:	256
+Groups:	12 89 
+VmPeak:	  102104 kB
+VmSize:	  102072 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    4344 kB
+VmRSS:	    3360 kB
+RssAnon:	     140 kB
+RssFile:	    3220 kB
+RssShmem:	       0 kB
+VmData:	     748 kB
+VmStk:	     132 kB
+VmExe:	     328 kB
+VmLib:	   16244 kB
+VmPTE:	     184 kB
+VmSwap:	     932 kB
+Threads:	1
+SigQ:	0/256550
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000001001000
+SigCgt:	0000000180002000
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000001fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	thread vulnerable
+Cpus_allowed:	ffffffff,ffffffff
+Cpus_allowed_list:	0-63
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed_list:	0-7
+voluntary_ctxt_switches:	9394
+nonvoluntary_ctxt_switches:	4
