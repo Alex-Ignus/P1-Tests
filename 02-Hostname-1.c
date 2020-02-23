@@ -21,7 +21,7 @@ subtest("Comparing output against gethostname(3)",
 
     char hostname[HOST_NAME_MAX + 1] = { 88 };
     int return_value = pfs_hostname("/proc", hostname, HOST_NAME_MAX + 1);
-
+    printf("My Hostname: %s, What you wanted: %s \n", hostname,expected_hname);
     test_assert_str(hostname, "==", expected_hname, HOST_NAME_MAX + 1);
     test_printf("'%s'", hostname);
 
